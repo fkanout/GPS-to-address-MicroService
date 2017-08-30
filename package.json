@@ -9,6 +9,7 @@
   "author": "Faisal KANOUT",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^4.0.0",
     "request": "^2.81.0",
     "request-promise-native": "^1.0.4",
     "seneca": "^3.4.2"
