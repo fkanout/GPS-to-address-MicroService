@@ -6,6 +6,8 @@ This is a simple microservice developed with [Seneca](http://senecajs.org/) micr
 Its aim is to get the user full address from his GPS coordinates.
 It can be used under *service-to-service*  or *user-to-service* patterns. To communicate with it, I used HTTP as transport (pipeline).
 
+![alt text](https://raw.githubusercontent.com/fkanout/GPS-to-address-MicroService/master/demo/demo.gif)
+
 # How to use
 
 `git clone https://github.com/fkanout/GPS-to-address-MicroService`
