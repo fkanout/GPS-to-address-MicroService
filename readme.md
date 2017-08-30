@@ -8,9 +8,9 @@ It can be used under *service-to-service*  or *user-to-service* patterns. To com
 
 # How to use
 
-`git clone .....`
+`git clone https://github.com/fkanout/GPS-to-address-MicroService`
 
-`cd ....`
+`cd GPS-to-address-MicroService`
 
 `npm install`
 
