@@ -46,6 +46,9 @@ use the `IIFE (Immediately Invoked Function Expression)`directly from `lib/index
 
 `ADDRESS_API` *The URL of the external API to resolve address, e.g: Google API*
 
+*Keyless access to Google Maps Platform is deprecated. Please use an API key with all your API calls to avoid service interruption. For further details please refer to http://g.co/dev/maps-no-account"*
+
+
 # Who am I
 
 [Website](https://www.kanout.com)
