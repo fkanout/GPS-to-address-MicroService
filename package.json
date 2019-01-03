@@ -11,14 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^4.0.0",
-    "request": "^2.81.0",
-    "request-promise-native": "^1.0.4",
-    "seneca": "^3.4.2"
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5",
+    "seneca": "^3.7.0"
   },
   "devDependencies": {
     "eslint": "^4.5.0",
     "eslint-config-airbnb": "^15.1.0",
-    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^5.1.1",
     "eslint-plugin-react": "^7.3.0"
   }
